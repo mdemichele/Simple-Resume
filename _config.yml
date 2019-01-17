@@ -1,0 +1,17 @@
+# Matt DeMichele Resume (Based on Jekyll Resume Theme)
+
+# Site settings
+title: Matt DeMichele Resume
+email: m.d.demichele@domain.com
+description: Programmer and Web Developer
+baseurl: ""
+url: ""
+name: Matt DeMichele
+job: Programmer
+location: Maui, HI
+languages: C, Ruby, Python, HTML, CSS and Javascript
+github_username:  mdemichele
+codepen_username:  mdemichele
+email_address: m.d.demichele@gmail.com
+# Build settings
+markdown: kramdown

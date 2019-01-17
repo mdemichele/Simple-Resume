@@ -1,0 +1,11 @@
+<h2 class="blog-title">Notes</h2>
+
+  {% for post in site.posts %}
+    <h3 class="post-title">
+    {{ post.title }}
+    </h3>
+    <div class="post-content">
+    {{ post.content }}
+    </div>
+
+  {% endfor %}

@@ -1,0 +1,37 @@
+.blog-title {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-bottom: ($spacer * 2);
+  margin-top: ($spacer * 2);
+  text-align: center;
+}
+
+.post-title {
+  letter-spacing: 1px;
+  margin-bottom: ($spacer);
+  text-align: left;
+  position: relative;
+  font-weight: bold;
+
+  &:after {
+      content: '';
+      position: absolute;
+      bottom: -5px;
+      left: 0%;
+      width: 50px;
+      height: 1px;
+      background: #222;
+  }
+}
+
+.post-content {
+  margin-bottom: ($spacer * 2);
+
+  p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+}
