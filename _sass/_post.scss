@@ -1,0 +1,31 @@
+.post-back-box {
+  margin: ($spacer);
+}
+
+.post-title-box {
+  margin: 10%;
+  text-align: center;
+  .post-title {
+    font-size: 24px;
+    font-weight: 700;
+  }
+}
+
+.post-content {
+  margin: 10%;
+
+  p {
+    display: block;
+    font-size: 18px;
+    line-height: 2.0;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  
+  h3 {
+    font-size: 24px;
+    font-weight: 700;
+  }
+}

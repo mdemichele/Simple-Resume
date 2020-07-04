@@ -1,14 +1,15 @@
 .blog-title {
-  font-size: 1.3rem;
+  font-size: 2.0rem;
   font-weight: bold;
-  margin-bottom: ($spacer * 2);
+  margin-bottom: ($spacer * 4);
   margin-top: ($spacer * 2);
   text-align: center;
 }
 
-.post-title {
+.blog-category-title {
   letter-spacing: 1px;
-  margin-bottom: ($spacer);
+  font-size: 24px;
+  margin-bottom: ($spacer * 2);
   text-align: left;
   position: relative;
   font-weight: bold;
@@ -24,14 +25,6 @@
   }
 }
 
-.post-content {
+.blog-category-posts {
   margin-bottom: ($spacer * 2);
-
-  p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-  }
 }

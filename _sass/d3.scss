@@ -1,0 +1,13 @@
+// d3 Article stylings
+
+.post-content {
+  
+  svg, select {
+    margin: 0 auto;
+    display: block;
+  }
+  
+  path {
+    stroke: #ccc;
+  }
+}

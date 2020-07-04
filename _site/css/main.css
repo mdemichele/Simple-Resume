@@ -73,6 +73,12 @@ body {
   font-size: 16px;
   line-height: 1.4; }
 
+em {
+  font-style: italic; }
+
+strong {
+  font-weight: 700; }
+
 header {
   border-bottom: 1px solid #edefee;
   padding: 40px 0;
@@ -144,19 +150,20 @@ a {
     text-decoration: none; }
 
 .blog-title {
-  font-size: 1.3rem;
+  font-size: 2.0rem;
   font-weight: bold;
-  margin-bottom: 40px;
+  margin-bottom: 80px;
   margin-top: 40px;
   text-align: center; }
 
-.post-title {
+.blog-category-title {
   letter-spacing: 1px;
-  margin-bottom: 20px;
+  font-size: 24px;
+  margin-bottom: 40px;
   text-align: left;
   position: relative;
   font-weight: bold; }
-  .post-title:after {
+  .blog-category-title:after {
     content: '';
     position: absolute;
     bottom: -5px;
@@ -165,11 +172,35 @@ a {
     height: 1px;
     background: #222; }
 
-.post-content {
+.blog-category-posts {
   margin-bottom: 40px; }
+
+.post-back-box {
+  margin: 20px; }
+
+.post-title-box {
+  margin: 10%;
+  text-align: center; }
+  .post-title-box .post-title {
+    font-size: 24px;
+    font-weight: 700; }
+
+.post-content {
+  margin: 10%; }
   .post-content p {
     display: block;
+    font-size: 18px;
+    line-height: 2.0;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px; }
+  .post-content h3 {
+    font-size: 24px;
+    font-weight: 700; }
+
+.post-content svg, .post-content select {
+  margin: 0 auto;
+  display: block; }
+.post-content path {
+  stroke: #ccc; }

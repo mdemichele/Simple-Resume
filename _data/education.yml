@@ -1,11 +1,15 @@
+-   qualification: Computer Science Major
+    school: Oregon State University
+    description: Currently enrolled as a CS major, taking courses part-time as I continue working full-time.
+    
+-   qualification: Computer Science Major
+    school: Illinois Institute of Technology 
+    description: I study CS at IIT for one semester, taking courses in object-oriented programming and Java. Ultimately, I left IIT without a degree to challenge myself to learn how to program on my own (following my belief that compentency always trumps credential).
+    
 -   qualification: Student
     school: 42 School Silicon Valley
-    description: 42 Silicon Valley is an engineering college in the San Francisco Bay Area, dedicated solely to training computer programmers. Currently enrolled as a student there, I have studied and built projects in programming languages, such as C and Python. To check out my portfolio, visit my github or codepen.
-
--   qualification: Computer Science Major
-    school: Illinois Institute of Technology
-    description: I studied CS at IIT for one semester, taking courses in object-oriented programming and Java. Ultimately, I left IIT without a degree to challenge myself to learn how to program on my own (following my belief that compentency always trumps credential).
+    description: 42 Silicon Valley is an engineering college in the San Francisco Bay Area, dedicated solely to training computer programmers. Completed the one-month Piscine program, which was focused on the fundamentals of C, UNIX, algorithms, and other CS concepts.
 
 -   qualification: Honors Diploma
     school: H.P. Baldwin High School
-    description: I graduated high school in 2014, with a GPA of 4.1. 
+    description: I graduated high school in 2014, with a GPA of 4.1.

@@ -1,0 +1,12 @@
+<h2 class="blog-title">Notes</h2>
+
+  {% for category in site.categories %}
+    <h3 class="blog-category-title">{{ category[0] }}</h3>
+    
+    <div class="blog-category-posts">
+    {% for post in category[1] %}
+        <p><a class="blog-post-title" href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endfor %}
+    </div>
+    
+  {% endfor %}
