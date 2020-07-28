@@ -1,0 +1,22 @@
+.reader-title-section {
+    font-size: 2.0rem;
+    font-weight: bold;
+    margin-bottom: ($spacer * 4);
+    margin-top: ($spacer * 2);
+    text-align: center;
+}
+
+.article-feed-title {
+  margin-bottom: $spacer;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.article-feed-body {
+  div.article-single-body {
+    margin-bottom: 25px;
+    padding: 10px 20px;
+    box-shadow: 2px 2px 5px 5px rgba(0, 0, 255, 0.2);
+    
+  }
+}
