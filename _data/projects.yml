@@ -1,0 +1,11 @@
+-   title: Article Reader
+    link: /article-reader
+    description: A simple article feed displaying recent posts from scholarly journals and news sites
+    
+-   title: D3 Analysis of California Housing prices
+    link: /california-housing-prices
+    description: A small analysis of housing prices in California taken from the 1990 census. It might not give you useful insight into today's housing market, but it is an interesting use case for d3. 
+    
+-   title: Covid-19 Analysis with d3
+    link: /covid
+    description: A running analysis of covid-19 data. This is still a work in progress, but hopefully it's useful to you in some way.

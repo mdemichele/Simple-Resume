@@ -8,9 +8,7 @@ The next concept to tackle in C is the array. To understand arrays, we have to f
 
 Just like a pointer, we can think of an array as a reference to a specific location in memory. In C, an array declaration looks like this:
 
-```C
-    int arr[5];
-```
+<script src="https://gist.github.com/mdemichele/d3942a52f256a9fc8d32e34d42afdf63.js"></script>
 
 This defines an array named *arr* with the size of 5 elements long. In memory, the array *arr* is formed by laying out all the elements contiguously, meaning that all elements share a common border. Visually, the array looks like this: 
 

@@ -31,6 +31,16 @@ header {
             max-width: 60%;
         }
     }
+    
+    .intro-img {
+      background-image: url("/img/header-image.jpg");
+      background-size: cover;
+      background-position: center;
+      height: 200px;
+      width: 200px;
+      border-radius: 50%;
+      margin-bottom: 50px;
+    }
 }
 
 .social {

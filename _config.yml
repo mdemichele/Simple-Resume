@@ -15,3 +15,5 @@ codepen_username:  mdemichele
 email_address: m.d.demichele@gmail.com
 # Build settings
 markdown: kramdown
+plugins: 
+  - rcsv

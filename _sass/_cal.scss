@@ -1,0 +1,38 @@
+.cal-title-section {
+    font-size: 2.0rem;
+    font-weight: bold;
+    margin-bottom: ($spacer * 4);
+    margin-top: ($spacer * 2);
+    text-align: center;
+}
+
+.cal-chart {
+  position: relative;
+  margin-bottom: ($spacer * 2);
+  text-align: center;
+  h3 {
+    font-size: 24px;
+    font-weight: 700;
+  }
+}
+
+.cal-chart-title {
+  padding-bottom: $spacer;
+  font-size: 18px;
+}
+
+.cal-chart-text {
+  display: block;
+  font-size: 18px;
+  line-height: 2.0;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  h3 {
+    font-size: 24px;
+    font-weight: 700;
+  }
+}

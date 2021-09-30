@@ -1,0 +1,41 @@
+<div class="cal-chart-text">
+  <p>Purely out of interest, I took a dataset of housing prices in California taken from a 1990 census. I decided to analyze it a few different ways. First, I plotted the median housing prices as a histogram just to see the distribution of housing prices. 
+</div>
+
+<div class="cal-chart" id="cal-house-prices-1">
+  <h3 class="cal-chart-title">Median Housing Prices in California 1990</h3>
+</div>
+
+<div class="cal-chart-text">
+  <p>Based on the histogram, we can see that the majority of housing prices were congregated around the $150,000 mark (so much cheaper than in 2020!). Median housing prices were collected by city in the census. So, next I wanted to see what the geographical distribution of housing prices looked like.</p>
+  <br>
+  <p>To do this, I needed to convert my csv file data into a geoJSON format. After converting the data, I was able to plot the data points by geographical location. Below, we can see the distribution of housing prices across the state of California. At least one conclusion I think we can draw from the visualization is that areas closer to the ocean, in general, had higher median housing prices than areas further from the ocean. Now that might not necessarily be the case. If I changed the upper bound of my scale domain from $400,000 to say $700,000, we might find that there is a smaller distribution of dark blue areas than is reflected on the current visualization. That might be something I'll look into when I get the chance to refactor some of these visualizations.</p>
+</div>
+<div class="cal-chart" id="cal-house-prices-2">
+  <h3 class="cal-chart-title">Median Housing Prices in California 1990</h3>
+</div>
+
+<div class="cal-chart-text">
+  <p>After visualizing the distribution based on geographical location, I wanted to next see if there were any other factors influencing housing prices besides proximity to water. For instance, was median household income in each city the critical factor influencing the housing prices? Fortunately, the dataset did in fact give me the necessary data to answer that question. Below, I plotted the median household income in each of the cities. Again, I may need to adjust my scale, but there does appear to be at least some connection between median household income and median housing prices in each city. I'll make to reanalyze this soon.
+</div>
+<div class="cal-chart" id="cal-house-prices-3">
+  <h3 class="cal-chart-title">Median Household Income in California 1990</h3>
+</div>
+
+<div class="cal-chart-text">
+  <p>Finally, I wanted to check at least one more factor that perhaps influenced the distribution of housing prices. Perhaps, it was the population of each city that determined prices. So, again, using the information provided by the dataset I plotted the population of each city.
+    
+  <p>Examining the visualization below, I can draw a few conclusions. First, as I've been saying, it appears that I need to adjust my scale, as most of the values were a moderately dark blue, reflecting values in the middle of the domain. That said, there does appear to be a similar correlation between population and housing prices, but, again I'll reanalyze that in the future. 
+</div>
+<div class="cal-chart" id="cal-house-prices-4">
+  <h3 class="cal-chart-title">Population in California 1990</h3>
+</div>
+
+<div class="cal-chart-text">
+  <h3 class="cal-chart-text-header">Lessons Learned:</h3>
+  
+  <p>While I may not have learned anything valuable about today's California housing market, this was an interesting exercise in visualizing data. It was also good practice with d3. It gave me an idea of how I might analyze future housing datasets and the conclusions I can draw.<p>
+  <br>
+  <p>To check out my d3 code from this project, see <a href="" target=_blank">here</a>. I should have it up on my Github profile in no time. Thanks for checking out this project. Hopefully it gave you ideas of data projects to work on yourself.<p>
+  <br>
+  <p>To see some of my other d3 projects and writings, click <a href="/blog">here<a/>.</p>

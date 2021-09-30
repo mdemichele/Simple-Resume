@@ -1,0 +1,9 @@
+<h3 class="section-title">Featured Projects</h3>
+<dl class="projects">
+  {% for project in site.data.projects %}
+    <dt>
+      <p class="title">{{ project.title}}</p>
+      <p class="project-description">{{ project.description }}</p>
+      <a class="project-link" href="{{ site.url }}{{ project.link }}">View Here</a>
+  {% endfor %}
+</dl>

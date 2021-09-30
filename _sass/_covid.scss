@@ -1,0 +1,36 @@
+.covid-title-section {
+    font-size: 2.0rem;
+    font-weight: bold;
+    margin-bottom: ($spacer * 4);
+    margin-top: ($spacer * 2);
+    text-align: center;
+}
+
+.covid-body-text {
+  display: block;
+  font-size: 18px;
+  line-height: 2.0;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  h3 {
+    font-size: 24px;
+    font-weight: 700;
+  }
+}
+
+.covid-d3-section {
+  text-align: center;
+  position: relative;
+  h3 {
+    font-size: 24px;
+    font-weight: 700;
+  }
+  #covid-chart-input {
+    margin-top: ($spacer * 2);
+    margin-bottom: ($spacer * 2);
+  }
+}
