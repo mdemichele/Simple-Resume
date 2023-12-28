@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "University Credits Tracker App"
-category: Web Applications 
+category: Software Engineering
 ---
 
 # Introduction

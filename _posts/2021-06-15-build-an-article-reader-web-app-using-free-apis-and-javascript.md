@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Build An Article Reader Web App Using Free APIs and JavaScript"
-category: Web Applications 
+category: Software Engineering 
 ---
 
 As I go through the lengthy process of building my resume, I’ve decided to start building some personal projects of my own. I’ve set out to do this a million times before, but this time, I’m actually going to finish a few of them.

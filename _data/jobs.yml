@@ -1,7 +1,29 @@
+-   title: Software Engineer I
+    company: Starbucks Coffee Company
+    period: Dec 2022 - Present
+    description: I currently contribute to the analysis, design, and development of the Starbucks Product Control system, which is deployed to approximately 16k Starbucks retail stores across North America, France, and the UK.
+
+-   title: Junior Software Engineer
+    company: Applied Research Associates
+    period: Sept 2022 - Dec 2022
+    description: During my short time here, I got to play around with my favorite technologies, working with Python, TypeScript, React, and Flask. I accomplished several key improvements to a piece of video analysis software written in React and deployed as an Electron desktop application. Improvement work included optimizing video playback frame rate, new feature implementations, and improved server-side logging.
+
+-   title: Software Engineering Intern 
+    company: Tanium
+    period: June 2022 - Aug 2022
+    description: I worked on the portfolio engineering team. During my time there, I accomplished a number of things. For one, I wrote a preprocessing program in python to output data into text files that could be read by native code in both Windows and Linux operating systems. The reprocessing program resulted in a 80% decrease in program runtime. Additionally, I also improved the product’s patch management system on Debian and Ubuntu Linux flavors. Lastly, I made contributions across the full-stack using Node.js, JavaScript, React, Python, VBScript, and SQLite.
+
+-   title: Software Engineering Intern 
+    company: Relaymile
+    period: Sept 2021 - Nov 2022
+    description: I've worked on both front-end and back-end teams at Relaymile. During my time, I've done a number of things. First, I've refactored RESTful APIs to more efficiently query database models using SQLAlchemy and Flask. Second, I've improved existing React components by fixing state management conflicts and reorganizing component hierarchies. Third, I've demonstronstrated understanding of modern agile development practices through participating in daily stand-up meetings, communicating with other developer and product managers, using scrum boards, and collaborating on Git and Github. Lastly, I've used modern infrastructure tools, including containerized applications with Docker, Postman for API testing, and usage of Python virtual environments. 
+
 -   title: Web Developer
-    company: DK Designs Hawaii
-    description: Worked as a web developer at DK Designs Hawaii. My work focus was primarily on front-end development, using mainly HTML, CSS, and JavaScript.
+    company: DK Design & Development Hawaii
+    period: Jan 2018 - Jan 2020
+    description: During my time at DK Designs, I refactored numerous legacy application UIs into mobile-responsive components using best-practice CSS and JavaScript. I also demonstrated understanding of modern CSS concepts like flexbox, media queries, and usage of libraries, such as Bootstrap and jQuery. Along with this, I also wrote algorithms in PHP for efficiently querying, processing, and formatting client data stored in a MySQL database. Fintally, I also built a few custom Wordpress themes and custom plugins using PHP to extend functionality of client web applications. 
 
 -   title: Digital Platforms Intern
     company: Council on Tall Buildings and Urban Habitat
-    description: As a Digital Platforms intern for the CTBUH, I assisted with maintaining and updating the CTBUH website and database.
+    period: Sept 2017 - Dece 2017
+    description: As a Digital Platforms intern for the CTBUH, I assisted with maintaining and updating the CTBUH website and database. I also bilt and optimized mobile-responsive web pages in HTML, CSS, JavaScript, and PHP. Finally, I contributed to and edited comprehensive documentation for company policies and technology stack. 

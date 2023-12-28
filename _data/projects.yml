@@ -1,11 +1,19 @@
+-   title: Exercise Tracker App 
+    link: https://github.com/mdemichele/exercise-tracker
+    description: A simple web application to keep track of exercises. Built with React, Express.js, MongoDB, and Node.js.
+    
+-   title: Credits Tracker App 
+    link: https://github.com/mdemichele/credits-tracker
+    description: The online credit planner provided by my university was horrible, so I built a little Node.js web app to keep track of my credits myself. 
+    
+-   title: Graph Implementations in Python
+    link: https://github.com/mdemichele/graph_implementations
+    description: An implementation of a Directed and Undirected Graph ADT with Dikjstra's Algorithm. You might think this is boring, but Dijkstra is more fun than you think.
+    
 -   title: Article Reader
     link: /article-reader
-    description: A simple article feed displaying recent posts from scholarly journals and news sites
-    
+    description: An article feed displaying recent posts from scholarly journals and news sites because who doesn't want to keep up with all the latest computer science research?
+        
 -   title: D3 Analysis of California Housing prices
     link: /california-housing-prices
     description: A small analysis of housing prices in California taken from the 1990 census. It might not give you useful insight into today's housing market, but it is an interesting use case for d3. 
-    
--   title: Covid-19 Analysis with d3
-    link: /covid
-    description: A running analysis of covid-19 data. This is still a work in progress, but hopefully it's useful to you in some way.

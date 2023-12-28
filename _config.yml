@@ -3,15 +3,15 @@
 # Site settings
 title: Matt DeMichele Resume
 email: m.d.demichele@domain.com
-description: Programmer and Web Developer
+description: Software Engineer and Computer Science Student
 baseurl: ""
 url: ""
 name: Matt DeMichele
 job: Programmer
-location: Maui, HI
+location: Seattle, WA
 languages: C, JavaScript, Python, HTML, and CSS
 github_username:  mdemichele
-codepen_username:  mdemichele
+linkedin_username:  matthew-demichele-3a51a9139
 email_address: m.d.demichele@gmail.com
 # Build settings
 markdown: kramdown

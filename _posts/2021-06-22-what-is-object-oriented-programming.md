@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Object Oriented Programming?"
-category: Object Oriented Programming 
+category: CS Concepts 
 ---
 Recently, I’ve been trying to wrap my head around the basic concepts of object-oriented programming.
 
