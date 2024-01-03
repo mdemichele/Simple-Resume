@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Leetcode 122: Buy and Sell Stock II"
-category: Technical Interviews
+category: Technical Essays
 ---
 Leetcode defines the problem as follows:
 

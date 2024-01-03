@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quick Algorithm Note"
-category: CS Concepts
+category: Technical Essays
 ---
 
 As I attempt to grasp the core concepts of computer memory, a word about algorithms and data structures is in order. First, let's ask the question, what is an algorithm?

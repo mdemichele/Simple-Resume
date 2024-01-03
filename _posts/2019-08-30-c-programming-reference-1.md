@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "C Programming Language Manual 1: Data Types, Memory layout, and Pointers"
-category: C Programming Manual
+category: Technical Essays
 ---
 
 These series of posts will be a working reference for my growing knowledge of the C programming language. I recognize that as I develop my fluency of the language, concepts will be reworked in my brain and restructured to fit my growing frame of reference. But, these posts will reflect my thought process at each stage of the *long* journey. This will act like a digitalized personal notebook.

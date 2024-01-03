@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "C Programming Language Manual: Enumerations"
-category: C Programming Manual
+category: Technical Essays
 ---
 
 An Enumeration is a unique type whose value consists of a set of enumerators. Enumerators are named constants of the type int. They can have an identifier as well as a value. If no values are declared, the values of the corresponding constants begin at 0 and increase by increments of 1. For example, a basic enumeration looks like this:

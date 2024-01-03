@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Basic Security Principles"
-category: Cybersecurity
+category: Technical Essays
 ---
 
 There are a number of important security principles that I've been taught over the past year. These principles are fundamental to both the study of cybersecurity, as well as the actual implementation of security systems. Here are a few of the principles. 

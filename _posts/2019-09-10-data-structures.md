@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Purpose of Data Structures"
-category: CS Concepts
+category: Technical Essays
 ---
 
 Fundamentally, a data structure is a tool to organize, manage, and store data in a manner that allows for efficient access and modification. There are many different types of data structures. Each unique data structure organizes information differently, depending upon what that information will be used for or which method of organization makes the most conceptual sense. Different data structures are better suited for different kinds of tasks. Some work well for generic kinds of applications; some are highly specialized and are only useful for very specific tasks. No matter the specific application, the key to remember is that *the general purpose of a data structure is to make algorithms faster and more efficient*.

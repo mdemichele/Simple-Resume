@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "C Programming Language Manual 2: Arrays"
-category: C Programming Manual
+category: Technical Essays
 ---
 
 The next concept to tackle in C is the array. To understand arrays, we have to first understand what pointers are. In the previous article, I defined pointers as a reference to a specific location in memory. With a pointer, we can reference either the value at the specific memory location or we can reference the location's address itself. An array functions in much the same way. In fact, arrays and pointers are so closely related, they are often covered together. 

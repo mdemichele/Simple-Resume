@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Mastering the Market Cycle - A Dialogue With Howard Marks"
-category: Finance 
+category: Personal Essays
 ---
 Howard Marks — investor
 Photo by Hunters Race on Unsplash

@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Basic npm Commands to Make Life Easier"
-category: Software Engineering
+category: Technical Essays
 ---
 
 Working in a Node.js environthere are a number of command line commands that I'm finding myself using all the time. These command aren't necessarily things that are taught in a CS program. Many of them are also not commands that you'd likely remember if you don't have to use them all the time. 

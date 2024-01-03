@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Some Thoughts on Security"
-category: Cybersecurity
+category: Technical Essays
 ---
 
 As I move further into the world of engineering systems, it's becoming easier to take a higher level view of things. While it's easier to see the forest for what it is, one thing that stands out is just how tangled and confusing it all is. Far from the perfectly engineered marvels that we sometimes think they are, the systems that control our lives are, in reality, still full of just as much uncertainty as when they were first invented. That's not to say they haven't come a long way, but the more I learn about these kinds of systems, the more I'm made brutally aware of how vulnerable they really are. 

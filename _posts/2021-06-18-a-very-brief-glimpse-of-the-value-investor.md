@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: A (Very) Brief Glimpse of the Value Investor 
-category: Finance 
+category: Personal Essays
 ---
 There is nothing I can say about investing that hasn’t already been said before. More to the point, there is nothing I can say that hasn’t been said by someone wildly more successful than I am. There are endless investors whose net worth is a hundred times more than mine. Dare I say, quite literally, a million times more than mine. If you want an original opinion, you should look to them.
 

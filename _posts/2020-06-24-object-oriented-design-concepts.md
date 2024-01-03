@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Object Oriented Design Concepts"
-category: CS Concepts
+category: Technical Essays
 ---
 
 In my last post, I defined Object Oriented Programming and explained the terms “object” and “class”.

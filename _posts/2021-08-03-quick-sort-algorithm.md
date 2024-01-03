@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Quick Sort Algorithm"
-category: Technical Interviews
+category: Technical Essays
 ---
 
 This series of articles is meant to help me pass those dreaded technical interviews. I'll be covering in detail each and every algorithm that I find the time and motivation to learn about. I hope you find these articles helpful as well. 

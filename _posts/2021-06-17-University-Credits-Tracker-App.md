@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "University Credits Tracker App"
-category: Software Engineering
+category: Technical Essays
 ---
 
 # Introduction

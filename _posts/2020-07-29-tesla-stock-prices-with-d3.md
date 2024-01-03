@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Visualizing Tesla Stock Prices with d3"
-category: Data Visualization
+category: Technical Essays
 ---
 
 Here I'm just experimenting around with using d3. I took a dataset of Tesla stock prices from July 2010, when Tesla first went public, to June 2011 and analyzed it a few different ways.

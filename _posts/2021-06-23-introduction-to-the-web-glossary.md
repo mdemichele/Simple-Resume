@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Introduction to the Web Glossary"
-category: Helpful Resources
+category: Technical Essays
 ---
 I'm currently taking an introductory web development course at OSU. Because I've already learned many of the concepts being taught in the course, I'm taking it on as an extra challenge to write about each concept in greater detail.  
 

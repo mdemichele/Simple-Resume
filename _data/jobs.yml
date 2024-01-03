@@ -1,7 +1,12 @@
+-   title: Software Engineer II
+    company: OpenTech Alliance
+    period: Oct 2023 - Present
+    description: Currently, I get to work on the Centralized Intelligent Access (CIA) team at OpenTech Alliance. In my day-to-day, I've been doing a lot of work on the frontend of our web application, mainly getting to play around with Angular and TypeScript. Lately, I've been implementing a few new features, squashing some pesky UI bugs, and paying off some tech debt (i.e. we got our app bumped up from Angular 11 to Angular 15, which was about as much fun as it sounds).
+
 -   title: Software Engineer I
     company: Starbucks Coffee Company
-    period: Dec 2022 - Present
-    description: I currently contribute to the analysis, design, and development of the Starbucks Product Control system, which is deployed to approximately 16k Starbucks retail stores across North America, France, and the UK.
+    period: Dec 2022 - October 2023
+    description: During my time here, I contributed to the analysis, design, and development of the Starbucks Product Control system, which is deployed to approximately 16k Starbucks retail stores across North America, France, and the UK. I also got to rebuild a newer version of a React application, called the Order Status Board, which is used in retail stores to display information about customer orders and wait times.
 
 -   title: Junior Software Engineer
     company: Applied Research Associates
@@ -11,7 +16,7 @@
 -   title: Software Engineering Intern 
     company: Tanium
     period: June 2022 - Aug 2022
-    description: I worked on the portfolio engineering team. During my time there, I accomplished a number of things. For one, I wrote a preprocessing program in python to output data into text files that could be read by native code in both Windows and Linux operating systems. The reprocessing program resulted in a 80% decrease in program runtime. Additionally, I also improved the product’s patch management system on Debian and Ubuntu Linux flavors. Lastly, I made contributions across the full-stack using Node.js, JavaScript, React, Python, VBScript, and SQLite.
+    description: I worked on the portfolio engineering team. During my time there, I accomplished a number of things. For one, I wrote a preprocessing program in python to output data into text files that could be read by native code in both Windows and Linux operating systems. The reprocessing program resulted in a 80% decrease in program runtime. Additionally, I also improved the product's patch management system on Debian and Ubuntu Linux flavors. Lastly, I made contributions across the full-stack using Node.js, JavaScript, React, Python, VBScript, and SQLite.
 
 -   title: Software Engineering Intern 
     company: Relaymile

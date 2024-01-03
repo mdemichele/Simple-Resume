@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "3 Ridiculously Easy SEO Improvements"
-category: SEO, Marketing 
+category: Technical Essays
 ---
 
 For those of you who don’t know me that well, I’m a computer science major at Oregon State University. Along with that, I hold a day job as a content manager for a multifamily real estate education company, called Multifamily Mindset.
