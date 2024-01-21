@@ -1,15 +1,29 @@
 -   qualification: Computer Science Major
     school: Oregon State University
-    description: I'm currently enrolled as a CS major. Expected graduation May 2023. Relevant coursework includes object-oriented programming in Java, data structures, computer architecture and assembly language, operating systems, web development, introduction to security. 
-    
+    period: Sept 2020 - Present
+    description: I'm currently enrolled as a Computer Science major. At the moment, I'm not sure when I'll graduate. I've been doing a lot of thinking lately about the value of a degree and am not convinced that the price of tuition is worth the piece of paper at the end. However, during my time at OSU, I've thoroughly enjoyed my foundational CS coursework. Relevant coursework includes Analysis of Algorithms, Data Structures, Computer Architecture and Assembly Language, Operating Systems, Web Development, Introduction to Security, Cryptography, and Open Source Software. 
+
 -   qualification: Software Engineering Career Track
     school: Springboard Coding Bootcamp 
-    description: I'm currently completing Springboard's nine month software engineering program. The course focuses on preparing developers for professional work. I've taken courses in JavaScript and Python and learned relevant technologies like React and Flask.
+    period: Sep 2021 - Dec 2021
+    description: I spent three months in the Springboard Software Engineering Track Bootcamp. The course focused on preparing software developers for professional work. I took courses in JavaScript and Python and learned relevant technologies like React and Flask.
     
 -   qualification: Student
     school: 42 School Silicon Valley
-    description: 42 Silicon Valley is an engineering college in the San Francisco Bay Area, dedicated solely to training computer programmers. I completed the one-month Piscine program, which was focused on the fundamentals of C, UNIX, algorithms, and other CS concepts.
+    period: Oct 2018 - Nov 2018
+    description: 42 Silicon Valley was an engineering college in the San Francisco Bay Area, dedicated solely to training computer programmers. I completed the one-month Piscine program, which was focused on the fundamentals of C, UNIX, algorithms, and other CS concepts.
+
+-   qualification: Physics Major
+    school: Illinois Institute of Technology
+    period: Aug 2017 - Dec 20217
+    description: I attended IIT for one semester in 2017. During my time, I completed the several courses including, Object-oriented Programming I, Introduction to the Profession (Physics), Chemistry I, and Human Issues in Technology. I ultimately decided to leave because the cost of tuition was too high.
+
+-   qualification: Theology Major
+    school: Moody Bible Institute 
+    period: Aug 2014 - Dec 2016
+    description: I attended MBI for about two and a half years. At the time, I was interested in broadening my intellectual foundation and exploring some of the fundamental questions in philosophy and theology. Some of my favorite courses were Introduction to Philosophy, Christianity and Western Culture, History of American Protestantism, Introduction to Biblical Criticism, and Biblical Greek I and II. Ultimately, I decided to leave MBI prior to completion because I wanted to pursue a career in software engineering and wanted to work towards a more technical degree.
 
 -   qualification: Honors Diploma
     school: H.P. Baldwin High School
+    period: Graduated May 2014
     description: I graduated high school in 2014, with a GPA of 4.1.

@@ -34,13 +34,13 @@ After bringing these things to light, I slowly realized that the missed deadline
 
 When I woke up the next morning - again at 4:15am - I clearly saw what had occurred the day before. Painful though it was, my failure to plan for a project deadline had been an invaluable exposure of the broken or non-existent systems in my life. If I hadn't missed this deadline, perhaps I wouldn't have seen this flaw until I encountered a much bigger project, with much more consequential deadlines. The failure, which initially threatened to ruin my week, was really an incredible opportunity to develop better systems of planning and organization. Armed with this knowledge, I paused before finishing my morning routine to write down four simple organizational improvements I wanted to make with my life.
 
-# 1) Write down every deadline in a calendar. Actually read the calendar and set alarms for every deadline.
+<li>Write down every deadline in a calendar. Actually read the calendar and set alarms for every deadline.</li>
 
-# 2) If a task doesn't have a deadline, give it one and prioritize it according to its deadline. If I don't have time to do that task now, push it back to a later deadline so that I can focus on the more important immediate tasks.
+<li>If a task doesn't have a deadline, give it one and prioritize it according to its deadline. If I don't have time to do that task now, push it back to a later deadline so that I can focus on the more important immediate tasks.</li>
 
-# 3) Plan out the necessary, regular tasks in my life. For instance, plan when to get groceries, when to clean and organize the house, and when to eat meals. If I don't plan these tasks, I won't know how much time is left over for the more important projects.
+<li>Plan out the necessary, regular tasks in my life. For instance, plan when to get groceries, when to clean and organize the house, and when to eat meals. If I don't plan these tasks, I won't know how much time is left over for the more important projects.</li>
 
-# 4) Be more intentional with my time. Although friendships and relationships are always the most important thing, I shouldn't be afraid to check my schedule before agreeing to give my time away. Handle priorities first.
+<li>Be more intentional with my time. Although friendships and relationships are always the most important thing, I shouldn't be afraid to check my schedule before agreeing to give my time away. Handle priorities first.</li>
 
 Armed with these simple rules of thumb, I felt a surge of confidence in my ability to meet deadlines and plan for important projects. These were necessary changes that may never have revealed themselves to me without a colossal failure of some sort. Rather than angrily curse the school for my poor grades, I was able to use the experience to become a better student and better person in the future. As I discovered, failure, far from being the bastion of destruction we imagine it to be, is in reality a stern catalyst for change which will change our lives if we allow it to. Somehow, this change in perspective makes all the difference.
 

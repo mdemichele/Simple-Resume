@@ -61,7 +61,7 @@ There is much more contained in Marks’ deeply informed book. If you want to th
 At the very least, take away these three points from this article:
 
 1. Investors are chained to the swings in their emotions. Inevitably, investor emotion will swing on a never-ending pendulum from greed to fear. Their decisions will be influenced by the swings of the pendulum.
-2. The swings in emotion affects investors’ ability to calculate and manage risk. When investors are greedy, they underestimate risk. When they are fearful, they overestimate risk.
+2. he swings in emotion affects investors’ ability to calculate and manage risk. When investors are greedy, they underestimate risk. When they are fearful, they overestimate risk.
 3. Swings in one cycle can affect other cycles. Thus, the credit cycle can fluctuate rapidly and can have an outsized affect on all other cycles affecting the market.
 
 <br>
