@@ -41,14 +41,14 @@ If that didn't quite make sense, that's okay!
 
 Basically, think of the algorithm moving in two directions. The forward direction represents us building up our recursion stack. The backwards direction represents us working back down our recursion stack. 
 
-Aas we go forward, we break the array into smaller and smaller bits until we reach individual elements. As we go backward, we build the array back up until we reach the original length.
+As we go forward, we break the array into smaller and smaller bits until we reach individual elements. As we go backward, we build the array back up until we reach the original length.
 
 The magic of this algorithm is the ability to break the sorting problem into much easier to solve subproblems. 
 
 For a great visualization of how this works, check out this video by [Michael Sambol](https://www.youtube.com/watch?v=4VqmGXwpLqc&ab_channel=MichaelSambol). The video does an excellent job showing what happens during the algorithm. Once you watch the video, you should be able to understand what's going on in the code below. 
 
-<script src="https://gist.github.com/mdemichele/b09b196ef053e82a33e02add9838d877.js"></script>
-
+<script src="https://gist.github.com/mdemichele/050d2b9642e46643ec344528860c7472.js"></script>
+<br/>
 # Source Code 
 To see a working implementation of merge sort, along with a couple of sample tests, check out my  project at <a href="https://github.com/mdemichele/c_algorithms_and_data_structures/tree/master/sorting_algorithms/merge_sort" target="_blank">Merge Sort Algorithm Github</a>
 
