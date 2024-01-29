@@ -3,13 +3,9 @@ layout: post
 title: "What is Object Oriented Programming?"
 category: Technical Essays
 ---
-Recently, I’ve been trying to wrap my head around the basic concepts of object-oriented programming.
-
-These next few posts will be an attempt to write down some of the things I’ve been learning on my journey to understand OOP. I’ll try to keep updating this series as I learn more.
-
 In this article, I first want to define a few simple things.
 
-What Exactly is Object Oriented Programming?
+What Exactly is Object Oriented Programming (OOP)?
 
 According to Oracle.com,
 

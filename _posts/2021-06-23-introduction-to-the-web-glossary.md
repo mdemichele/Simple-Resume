@@ -10,7 +10,6 @@ This is mainly a practice to further solidify concepts in my own head, but hopef
 # Introduction to the Web 
 
 The first module of our course covers a high-level overview of the basics and history of the web.
-
 As a reference, here is a glossary of some of the key concepts and definitions you should know:
 
 # What is HTTP and what is its use?

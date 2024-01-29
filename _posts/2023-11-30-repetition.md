@@ -5,7 +5,7 @@ category: Poetry
 ---
 These feelings roll down my tongue<br/>
 like bourbon, bitter until the third glass.<br/>
-insipid as the day-old coffee ground,<br/>
+insipid as the day-old coffee grounds,<br/>
 mulching inside the dirty mugs, unwashed in the sink.<br/>
 
 Heavy, like second-hand cigarette smoke,<br/>
