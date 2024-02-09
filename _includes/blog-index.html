@@ -1,12 +1,14 @@
 <h2 class="blog-title">Thoughts & Notes</h2>
 
+<!-- Categories -->
+<div class="blog-categories">
   {% for category in site.categories %}
-    <h3 class="blog-category-title">{{ category[0] }}</h3>
+  <h3 class="blog-category-title">{{ category[0] }}</h3>
     
-    <div class="blog-category-posts">
-    {% for post in category[1] %}
-        <p><a class="blog-post-title" href="{{ post.url }}">{{ post.title }}</a></p>
-    {% endfor %}
-    </div>
-    
+  <div class="blog-category-posts">
+  {% for post in category[1] %}
+      <p><a class="blog-post-title" href="{{ post.url }}">{{ post.title }}</a></p>
   {% endfor %}
+  </div>
+  {% endfor %}  
+</div>

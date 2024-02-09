@@ -21,7 +21,7 @@
 -   title: Software Engineering Intern 
     company: Relaymile
     period: Sept 2021 - Nov 2022
-    description: I've worked on both front-end and back-end teams at Relaymile. During my time, I've done a number of things. First, I've refactored RESTful APIs to more efficiently query database models using SQLAlchemy and Flask. Second, I've improved existing React components by fixing state management conflicts and reorganizing component hierarchies. Third, I've demonstronstrated understanding of modern agile development practices through participating in daily stand-up meetings, communicating with other developer and product managers, using scrum boards, and collaborating on Git and Github. Lastly, I've used modern infrastructure tools, including containerized applications with Docker, Postman for API testing, and usage of Python virtual environments. 
+    description: I worked on both front-end and back-end teams at Relaymile. During my time, I did a number of things. First, I refactored RESTful APIs to more efficiently query database models using SQLAlchemy and Flask. Second, I improved existing React components by fixing state management conflicts and reorganizing component hierarchies. Third, I demonstronstrated understanding of modern agile development practices through participating in daily stand-up meetings, communicating with other developer and product managers, using scrum boards, and collaborating on Git and Github. Lastly, I used modern infrastructure tools, including containerized applications with Docker, Postman for API testing, and usage of Python virtual environments. 
 
 -   title: Web Developer
     company: DK Design & Development Hawaii
@@ -30,5 +30,5 @@
 
 -   title: Digital Platforms Intern
     company: Council on Tall Buildings and Urban Habitat
-    period: Sept 2017 - Dece 2017
+    period: Sept 2017 - Dec 2017
     description: As a Digital Platforms intern for the CTBUH, I assisted with maintaining and updating the CTBUH website and database. I also bilt and optimized mobile-responsive web pages in HTML, CSS, JavaScript, and PHP. Finally, I contributed to and edited comprehensive documentation for company policies and technology stack. 

@@ -14,37 +14,72 @@ header {
 
 .intro {
     margin-bottom: ($spacer * 2);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
 
     &__pre, &__post {
-        text-transform: uppercase;
         letter-spacing: 4px;
+        color: rgba(168, 162, 158, 1.0);
     }
 
-    &__main {
-        font-size: 1.8rem;
-        line-height: 1.2;
-        font-weight: bold;
-        margin: 10px 0 20px;
+    .intro-info-container {
+        width: 60%;
 
-        @media(min-width: 640px) {
-            font-size: 2.2rem;
-            max-width: 60%;
+        .intro-description-container {
+            margin-top: 40px;
+            margin-bottom: 40px;
+            width: 100%;
+    
+            .intro__main {
+                margin-bottom: 20px;
+                font-size: 16px;
+                line-height: 32px;
+                font-weight: 400px;
+            }
+        }
+
+        .intro__post {
+            margin-bottom: 20px;
+        }
+
+        .social {
+            a {
+                margin-right: $spacer;
+            }
         }
     }
     
-    .intro-img {
-      background-image: url("/img/header-image.jpg");
-      background-size: cover;
-      background-position: center;
-      height: 200px;
-      width: 200px;
-      border-radius: 50%;
-      margin-bottom: 50px;
+    .intro-img-container {
+        width: 40%;
+
+        .intro-img {
+            background-image: url("/img/header-image.jpg");
+            background-size: cover;
+            background-position: center;
+            height: 200px;
+            width: 200px;
+            border-radius: 50%;
+            margin-bottom: 50px;
+          }
     }
 }
 
-.social {
-    a {
-        margin-right: $spacer;
+@media (max-width: 768px) {
+    .intro {
+        .intro-img-container {
+            width: 100%;
+
+            .intro-img {
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+
+        .intro-info-container {
+            width: 100%;
+            text-align: center;
+        }
     }
 }

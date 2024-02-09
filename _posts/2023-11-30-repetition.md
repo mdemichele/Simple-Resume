@@ -2,8 +2,10 @@
 layout: post
 title: Repetition
 category: Poetry
+excerpt_separator: <!--more-->
 ---
 These feelings roll down my tongue<br/>
+<!--more-->
 like bourbon, bitter until the third glass.<br/>
 insipid as the day-old coffee grounds,<br/>
 mulching inside the dirty mugs, unwashed in the sink.<br/>

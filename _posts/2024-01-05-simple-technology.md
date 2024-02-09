@@ -21,7 +21,7 @@ Shouldn't we build technology that makes us happier and healthier even if "makes
 
 # Desire For Simplicity
 
-I draw a parallel here with my fascination with simplicity. I love things that are simple, straight-forward, intuitive, and easy to understand. I also love the effect that simplicity has on me. I feel calmer and more able to experience that haralded "sense of flow" when I participate in simplicity. 
+I draw a parallel here with my fascination with simplicity. I love things that are simple, straight-forward, intuitive, and easy to understand. I also love the effect that simplicity has on me. I feel calmer and more able to experience that heralded "sense of flow" when I participate in simplicity. 
 
 For me, participating in simplicity means engaging in things that are intentional rather than passive and consumptive. The activities that are consumptive often have hidden layers of complexity to them. When I sit and watch TV from a streaming service, there is a baffling set of complex processes happening there. I turn on a smart TV, which connects to my home internet via wifi facilitated by the router plugged into the electrical system in my house. I then navigate to Netflix via a software application running on the operating system of the smart TV. I then turn on some show written by dozens of writers, filmed by hundreds of film industry workers, and played out by a cast of dozens of actors. Although all of this takes place below my attentional awareness, I still feel this complexity at some visceral level. I imbibe it; I'm saturated in it. These things don't happen out of sight and out of mind like I'd like think they do. They play out in my body, a ground-swell of noise and chaotic pulsations that I consume without my consent.
 

@@ -36,7 +36,11 @@ dt, dd {
 .title {
     margin: 0;
     font-weight: bold;
-    font-size: 1.2rem;
+    font-size: 16px;
+}
+
+.company {
+    font-size: 14px;
 }
 
 a {
@@ -48,4 +52,14 @@ a {
         background: rgba(245, 215, 110, 1);
         text-decoration: none;
     }
+}
+
+.period {
+    color: rgba(168, 162, 158, 1.0);
+    font-size: 12px;
+}
+
+.description {
+    font-size: 14px;
+    line-height: 28px;
 }

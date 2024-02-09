@@ -2,8 +2,10 @@
 layout: post
 title: These Afternoons
 category: Poetry
+excerpt_separator: <!--more-->
 ---
 These afternoons, with skies sometimes blue,<br/> 
+<!--more-->
 sometimes squally.<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;Always steeped with dry, frigid air.<br/>
 Peering outside through the big prism of a window,<br/>

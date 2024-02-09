@@ -1,0 +1,32 @@
+.blog-post-blurb-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.blog-post-title {
+    width: 80%;
+    text-align: left;
+}
+
+.blog-post-date {
+    width: 20%;
+    text-align: right;
+    color: rgba(168, 162, 158, 1.0);
+}
+
+@media (max-width: 500px) {
+    .blog-post-title {
+        width: 60%;
+    }
+
+    .blog-post-date {
+        width: 40%;
+    }
+}

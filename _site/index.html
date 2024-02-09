@@ -2,7 +2,7 @@
 <html>
     <head>
   
-  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <!-- Global site tag (gtag.js) - OLD Google Analytics Universal Analytics Property -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148159282-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -13,14 +13,16 @@
   </script>
   <!-- End Analytics -->
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y7ZECYRWYZ"></script>
+  <!-- Google tag (gtag.js) - NEW Google Analytics GA property -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2Y8HCRC1H3"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'G-Y7ZECYRWYZ');
+    gtag('config', 'G-2Y8HCRC1H3');
+  </script>
+
   </script> 
   
     <meta charset="utf-8">
@@ -31,6 +33,7 @@
     <meta name="description" content="Software Engineer and Computer Science Student">
 
     <link rel="stylesheet" href=/css/main.css>
+    <link rel="icon" type="image/svg+xml" href="https://emojicdn.elk.sh/%F0%9F%A4%99">
     <link rel="canonical" href="http://localhost:4000/">
     <link rel="alternate" type="application/rss+xml" title="Matt DeMichele Resume" href="http://localhost:4000/feed.xml">
     
@@ -43,20 +46,29 @@
         <header>
     <div class="container">
         <div class="intro">
-          <div class="intro-img"></div>
-            <p class="intro__pre">Hey there</p>
-            <p class="intro__main">My name's <span>Matt DeMichele</span>. I'm a software engineer who loves all things Computer Science, Engineering, and Data Science.<br><br>I currently work mostly with Angular, TypeScript, and C#</p>
-            <p class="intro__post">Phoenix, AZ</p>
-        </div>
+            <div class="intro-img-container">
+                <div class="intro-img"></div>
+            </div>
 
-        
-        <div class="social">
-            <a href="http://github.com/mdemichele" target="_blank">GitHub</a>
-            <a href="https://www.linkedin.com/in/matthew-demichele-3a51a9139" target="_blank">LinkedIn</a>
-            <a href="mailto:m.d.demichele@gmail.com" target="_blank">Email</a>
-        </div>
-        
+            <div class="intro-info-container">
+                <p class="intro__pre">Hey there!</p>
+                <div class="intro-description-container">
+                    <p class="intro__main">I'm <span>Matt DeMichele</span>. I'm a software engineer at OpenTech Alliance.</p>
+                    <p class="intro__main">At the moment, I mostly work with Angular, TypeScript, and C#. I'm interested in all things computer science, software engineering, and data science. Sometimes I like to write.</p>
+                </div>
+                
+                <p class="intro__post">Phoenix, AZ</p>
 
+                
+                <div class="social">
+                    <a href="http://github.com/mdemichele" target="_blank">GitHub</a>
+                    <a href="https://www.linkedin.com/in/matthew-demichele-3a51a9139" target="_blank">LinkedIn</a>
+                    <a href="mailto:m.d.demichele@gmail.com" target="_blank">Email</a>
+                </div>
+                
+        
+            </div>
+        </div>
     </div>
 </header>
 
@@ -70,7 +82,7 @@
             <em><p class="period">Oct 2023 - Present</p></em>
         </dt><!--
         --><dd>
-            <p>Currently, I get to work on the Centralized Intelligent Access (CIA) team at OpenTech Alliance. In my day-to-day, I've been doing a lot of work on the frontend of our web application, mainly getting to play around with Angular and TypeScript. Lately, I've been implementing a few new features, squashing some pesky UI bugs, and paying off some tech debt (i.e. we got our app bumped up from Angular 11 to Angular 15, which was about as much fun as it sounds).</p>
+            <p class="description">Currently, I get to work on the Centralized Intelligent Access (CIA) team at OpenTech Alliance. In my day-to-day, I've been doing a lot of work on the frontend of our web application, mainly getting to play around with Angular and TypeScript. Lately, I've been implementing a few new features, squashing some pesky UI bugs, and paying off some tech debt (i.e. we got our app bumped up from Angular 11 to Angular 15, which was about as much fun as it sounds).</p>
         </dd>
     
         <dt>
@@ -79,7 +91,7 @@
             <em><p class="period">Dec 2022 - October 2023</p></em>
         </dt><!--
         --><dd>
-            <p>During my time here, I contributed to the analysis, design, and development of the Starbucks Product Control system, which is deployed to approximately 16k Starbucks retail stores across North America, France, and the UK. I also got to rebuild a newer version of a React application, called the Order Status Board, which is used in retail stores to display information about customer orders and wait times.</p>
+            <p class="description">During my time here, I contributed to the analysis, design, and development of the Starbucks Product Control system, which is deployed to approximately 16k Starbucks retail stores across North America, France, and the UK. I also got to rebuild a newer version of a React application, called the Order Status Board, which is used in retail stores to display information about customer orders and wait times.</p>
         </dd>
     
         <dt>
@@ -88,7 +100,7 @@
             <em><p class="period">Sept 2022 - Dec 2022</p></em>
         </dt><!--
         --><dd>
-            <p>During my short time here, I got to play around with my favorite technologies, working with Python, TypeScript, React, and Flask. I accomplished several key improvements to a piece of video analysis software written in React and deployed as an Electron desktop application. Improvement work included optimizing video playback frame rate, new feature implementations, and improved server-side logging.</p>
+            <p class="description">During my short time here, I got to play around with my favorite technologies, working with Python, TypeScript, React, and Flask. I accomplished several key improvements to a piece of video analysis software written in React and deployed as an Electron desktop application. Improvement work included optimizing video playback frame rate, new feature implementations, and improved server-side logging.</p>
         </dd>
     
         <dt>
@@ -97,7 +109,7 @@
             <em><p class="period">June 2022 - Aug 2022</p></em>
         </dt><!--
         --><dd>
-            <p>I worked on the portfolio engineering team. During my time there, I accomplished a number of things. For one, I wrote a preprocessing program in python to output data into text files that could be read by native code in both Windows and Linux operating systems. The reprocessing program resulted in a 80% decrease in program runtime. Additionally, I also improved the product's patch management system on Debian and Ubuntu Linux flavors. Lastly, I made contributions across the full-stack using Node.js, JavaScript, React, Python, VBScript, and SQLite.</p>
+            <p class="description">I worked on the portfolio engineering team. During my time there, I accomplished a number of things. For one, I wrote a preprocessing program in python to output data into text files that could be read by native code in both Windows and Linux operating systems. The reprocessing program resulted in a 80% decrease in program runtime. Additionally, I also improved the product's patch management system on Debian and Ubuntu Linux flavors. Lastly, I made contributions across the full-stack using Node.js, JavaScript, React, Python, VBScript, and SQLite.</p>
         </dd>
     
         <dt>
@@ -106,7 +118,7 @@
             <em><p class="period">Sept 2021 - Nov 2022</p></em>
         </dt><!--
         --><dd>
-            <p>I've worked on both front-end and back-end teams at Relaymile. During my time, I've done a number of things. First, I've refactored RESTful APIs to more efficiently query database models using SQLAlchemy and Flask. Second, I've improved existing React components by fixing state management conflicts and reorganizing component hierarchies. Third, I've demonstronstrated understanding of modern agile development practices through participating in daily stand-up meetings, communicating with other developer and product managers, using scrum boards, and collaborating on Git and Github. Lastly, I've used modern infrastructure tools, including containerized applications with Docker, Postman for API testing, and usage of Python virtual environments.</p>
+            <p class="description">I worked on both front-end and back-end teams at Relaymile. During my time, I did a number of things. First, I refactored RESTful APIs to more efficiently query database models using SQLAlchemy and Flask. Second, I improved existing React components by fixing state management conflicts and reorganizing component hierarchies. Third, I demonstronstrated understanding of modern agile development practices through participating in daily stand-up meetings, communicating with other developer and product managers, using scrum boards, and collaborating on Git and Github. Lastly, I used modern infrastructure tools, including containerized applications with Docker, Postman for API testing, and usage of Python virtual environments.</p>
         </dd>
     
         <dt>
@@ -115,16 +127,16 @@
             <em><p class="period">Jan 2018 - Jan 2020</p></em>
         </dt><!--
         --><dd>
-            <p>During my time at DK Designs, I refactored numerous legacy application UIs into mobile-responsive components using best-practice CSS and JavaScript. I also demonstrated understanding of modern CSS concepts like flexbox, media queries, and usage of libraries, such as Bootstrap and jQuery. Along with this, I also wrote algorithms in PHP for efficiently querying, processing, and formatting client data stored in a MySQL database. Fintally, I also built a few custom Wordpress themes and custom plugins using PHP to extend functionality of client web applications.</p>
+            <p class="description">During my time at DK Designs, I refactored numerous legacy application UIs into mobile-responsive components using best-practice CSS and JavaScript. I also demonstrated understanding of modern CSS concepts like flexbox, media queries, and usage of libraries, such as Bootstrap and jQuery. Along with this, I also wrote algorithms in PHP for efficiently querying, processing, and formatting client data stored in a MySQL database. Fintally, I also built a few custom Wordpress themes and custom plugins using PHP to extend functionality of client web applications.</p>
         </dd>
     
         <dt>
             <p class="title">Digital Platforms Intern</p>
             <p class="company">Council on Tall Buildings and Urban Habitat</p>
-            <em><p class="period">Sept 2017 - Dece 2017</p></em>
+            <em><p class="period">Sept 2017 - Dec 2017</p></em>
         </dt><!--
         --><dd>
-            <p>As a Digital Platforms intern for the CTBUH, I assisted with maintaining and updating the CTBUH website and database. I also bilt and optimized mobile-responsive web pages in HTML, CSS, JavaScript, and PHP. Finally, I contributed to and edited comprehensive documentation for company policies and technology stack.</p>
+            <p class="description">As a Digital Platforms intern for the CTBUH, I assisted with maintaining and updating the CTBUH website and database. I also bilt and optimized mobile-responsive web pages in HTML, CSS, JavaScript, and PHP. Finally, I contributed to and edited comprehensive documentation for company policies and technology stack.</p>
         </dd>
     
 </dl>
@@ -138,7 +150,7 @@
             <p class="period">Sept 2020 - Present</p>
         </dt><!--
         --><dd>
-            <p>I'm currently enrolled as a Computer Science major. At the moment, I'm not sure when I'll graduate. I've been doing a lot of thinking lately about the value of a degree and am not convinced that the price of tuition is worth the piece of paper at the end. However, during my time at OSU, I've thoroughly enjoyed my foundational CS coursework. Relevant coursework includes Analysis of Algorithms, Data Structures, Computer Architecture and Assembly Language, Operating Systems, Web Development, Introduction to Security, Cryptography, and Open Source Software.</p>
+            <p class="description">I'm currently enrolled as a Computer Science major. At the moment, I'm not sure when I'll graduate. I've been doing a lot of thinking lately about the value of a degree and am not convinced that the price of tuition is worth the piece of paper at the end. However, during my time at OSU, I have enjoyed my foundational CS coursework. Relevant coursework includes Analysis of Algorithms, Data Structures, Computer Architecture and Assembly Language, Operating Systems, Web Development, Introduction to Security, Cryptography, and Open Source Software.</p>
         </dd>
     
         <dt>
@@ -147,7 +159,7 @@
             <p class="period">Sep 2021 - Dec 2021</p>
         </dt><!--
         --><dd>
-            <p>I spent three months in the Springboard Software Engineering Track Bootcamp. The course focused on preparing software developers for professional work. I took courses in JavaScript and Python and learned relevant technologies like React and Flask.</p>
+            <p class="description">I spent four months in the Springboard Software Engineering Track Bootcamp. The course focused on preparing software developers for professional work. I took courses in JavaScript and Python and learned relevant technologies like React and Flask.</p>
         </dd>
     
         <dt>
@@ -156,7 +168,7 @@
             <p class="period">Oct 2018 - Nov 2018</p>
         </dt><!--
         --><dd>
-            <p>42 Silicon Valley was an engineering college in the San Francisco Bay Area, dedicated solely to training computer programmers. I completed the one-month Piscine program, which was focused on the fundamentals of C, UNIX, algorithms, and other CS concepts.</p>
+            <p class="description">42 Silicon Valley was an engineering college in the San Francisco Bay Area, dedicated solely to training computer programmers. I completed the one-month Piscine program, which was focused on the fundamentals of C, UNIX, algorithms, and other CS concepts.</p>
         </dd>
     
         <dt>
@@ -165,7 +177,7 @@
             <p class="period">Aug 2017 - Dec 20217</p>
         </dt><!--
         --><dd>
-            <p>I attended IIT for one semester in 2017. During my time, I completed the several courses including, Object-oriented Programming I, Introduction to the Profession (Physics), Chemistry I, and Human Issues in Technology. I ultimately decided to leave because the cost of tuition was too high.</p>
+            <p class="description">I attended IIT for one semester in 2017. During my time, I completed the several courses, including Object-oriented Programming I, Introduction to the Profession (Physics), Chemistry I, and Human Issues in Technology. I ultimately decided to leave because the cost of tuition was too high.</p>
         </dd>
     
         <dt>
@@ -174,7 +186,7 @@
             <p class="period">Aug 2014 - Dec 2016</p>
         </dt><!--
         --><dd>
-            <p>I attended MBI for about two and a half years. At the time, I was interested in broadening my intellectual foundation and exploring some of the fundamental questions in philosophy and theology. Some of my favorite courses were Introduction to Philosophy, Christianity and Western Culture, History of American Protestantism, Introduction to Biblical Criticism, and Biblical Greek I and II. Ultimately, I decided to leave MBI prior to completion because I wanted to pursue a career in software engineering and wanted to work towards a more technical degree.</p>
+            <p class="description">I attended MBI for about two and a half years. At the time, I was interested in broadening my intellectual foundation and exploring some of the fundamental questions in philosophy and theology. Some of my favorite courses were Introduction to Philosophy, Christianity and Western Culture, History of American Protestantism, Introduction to Biblical Criticism, and Biblical Greek I and II. Ultimately, I decided to leave MBI prior to completion because I wanted to pursue a career in software engineering and thought a more technical degree would be a good idea.</p>
         </dd>
     
         <dt>
@@ -183,7 +195,7 @@
             <p class="period">Graduated May 2014</p>
         </dt><!--
         --><dd>
-            <p>I graduated high school in 2014, with a GPA of 4.1.</p>
+            <p class="description">I graduated high school in 2014, with a GPA of 4.1.</p>
         </dd>
     
 </dl>
@@ -242,7 +254,7 @@
 
         <footer class="footer">
     <p class="footer__title">Matt DeMichele</p>
-    <p class="footer__subtitle">Programmer</p>
+    <p class="footer__subtitle">Software Engineer</p>
     <br>
     <p><a href="/blog.html">Read my writing</a></p>
 </footer>

@@ -9,6 +9,10 @@
     font-size: 24px;
     font-weight: 700;
   }
+  
+  .post-date {
+    color: rgba(168, 162, 158, 1.0);
+  }
 }
 
 .post-content {
@@ -17,50 +21,50 @@
   
   // Blockquote 
   blockquote {
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 300;
   }
   
   // Ordered List 
-  ol li {
-    counter-increment: matt;
-    font-size: 18px;
-    line-height: 2.0;
-  }
+  // ol li {
+  //   counter-increment: matt;
+  //   font-size: 16px;
+  //   line-height: 2.0;
+  // }
   
-  ol li:before {
-    content: counter(matt) ".  ";
-  }
+  // ol li:before {
+  //   content: counter(matt) ".  ";
+  // }
 
-  ol li:marker {
-    content: counter(matt) ".  ";
-  }
+  // ol li:marker {
+  //   content: counter(matt) ".  ";
+  // }
   
-  ol {
-    list-style: none;
-    counter-reset: matt;
-  }
+  // ol {
+  //   list-style: none;
+  //   counter-reset: matt;
+  // }
   
   // Unordered List 
-  ul li {
-    counter-increment: matt2;
-    font-size: 18px;
-    line-height: 2.0;
-  }
+  // ul li {
+  //   counter-increment: matt2;
+  //   font-size: 16px;
+  //   line-height: 2.0;
+  // }
 
-  li {
-    font-size: 18px;
-    line-height: 2.0;
-  }
+  // li {
+  //   font-size: 16px;
+  //   line-height: 2.0;
+  // }
   
-  ul li:before {
-    content: counter(matt2) ". ";
-  }
+  // // ul li:before {
+  // //   content: counter(matt2) ". ";
+  // // }
   
-  ul {
-    list-style: none;
-    counter-reset: matt2;
-  }
+  // ul {
+  //   list-style: none;
+  //   counter-reset: matt2;
+  // }
   
   // Code Block 
   code {
@@ -73,7 +77,7 @@
   // Post Text 
   p {
     display: block;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 2.0;
     margin-block-start: 1em;
     margin-block-end: 1em;
@@ -82,13 +86,36 @@
   }
   
   h1 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 700;
     margin-bottom: 10px;
+    margin-top: 40px;
   }
   
   h3 {
     font-size: 18px;
     font-weight: 700;
+  }
+}
+
+ol {
+  padding-inline-start: 16px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  line-height: 32px;
+
+  li {
+    margin-bottom: 20px;
+  }
+}
+
+ul {
+  padding-inline-start: 16px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  line-height: 32px;
+
+  li {
+    margin-bottom: 20px;
   }
 }

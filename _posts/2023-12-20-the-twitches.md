@@ -2,8 +2,10 @@
 layout: post
 title: The twitches
 category: Poetry
+excerpt_separator: <!--more-->
 ---
 The left side of my face twitches<br/>
+<!--more-->
 whenever creativity strikes,<br/>
 I feel a certain sickness.<br/>
 My eyes get blurry.<br/>

@@ -2,8 +2,10 @@
 layout: post
 title: Mornings Like These
 category: Poetry
+excerpt_separator: <!--more-->
 ---
 These morning are like stale coffee;<br/> 
+<!--more-->
 the numbing, wet asphalt.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Every frozen piece of metal railing,<br/>
 seems like such a bone-breaking and jerky awakening.<br/>
@@ -26,7 +28,7 @@ Dreary old drunk sputtering his steps: two paces forward.<br/>
 One back.<br/>
 Each crufty oak branch begrimed in between bus stop benches.<br/>
 With a sulky, hoary Russian woman and two little fury eyes.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Blood shot irises, strung-hung like a crucifier.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Blood shot irises, strung-out, hanging lifeless like the crucified.<br/>
 This crucible of miseries and wilted petals--brown, never white.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Always tired, sleepers in the morning.<br/>
 <br/>

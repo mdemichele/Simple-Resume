@@ -1,0 +1,17 @@
+<h2 class="blog-title">Latest Posts</h2>
+
+<!-- Latest Posts -->
+<div class="blog-latest-posts">
+    {% for post in site.posts %}
+      <div class="blog-post-blurb-container">
+        <div class="blog-post-title">
+            <a class="blog-post-title-link" href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+
+        <div class="blog-post-date">
+            <p>{{ post.date | date: "%b %d, %Y"}}</p>
+        </div>
+
+      </div>
+    {% endfor %}
+  </div>

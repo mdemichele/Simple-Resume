@@ -3,11 +3,11 @@
   {% include head.html %}
   <body>
     <div class="post-back-box">
-      <a href="/blog.html"><p class="post-back-link">Back to Notes Index</p></a>
+      <a href="/blog.html">Back to Notes Index</a>
     </div>
     <div class="post-title-box">
       <h3 class="post-title"> {{ page.title }}</h3>
-      <p>{{ page.date | date: "%b %d, %Y"}}</p>
+      <p class="post-date">{{ page.date | date: "%b %d, %Y"}}</p>
     </div>
     <div class="post-content">
       {{ content }}

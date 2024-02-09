@@ -9,7 +9,7 @@ a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
 b, u, i, center,
-dl, dt, dd, ol, ul, li,
+dl, dt, dd,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed,
@@ -33,10 +33,6 @@ footer, header, hgroup, menu, nav, section {
 
 body {
   line-height: 1;
-}
-
-ol, ul {
-  list-style: none;
 }
 
 blockquote, q {
@@ -66,6 +62,7 @@ table {
   margin-bottom: 40px;
   text-align: center;
   position: relative;
+  color: rgb(168, 162, 158);
 }
 .section-title:after {
   content: "";
@@ -75,7 +72,7 @@ table {
   margin-left: -25px;
   width: 50px;
   height: 1px;
-  background: #222;
+  background: rgb(172, 162, 158);
 }
 
 body {
@@ -106,24 +103,39 @@ header {
 
 .intro {
   margin-bottom: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 .intro__pre, .intro__post {
-  text-transform: uppercase;
   letter-spacing: 4px;
+  color: rgb(168, 162, 158);
 }
-.intro__main {
-  font-size: 1.8rem;
-  line-height: 1.2;
-  font-weight: bold;
-  margin: 10px 0 20px;
+.intro .intro-info-container {
+  width: 60%;
 }
-@media (min-width: 640px) {
-  .intro__main {
-    font-size: 2.2rem;
-    max-width: 60%;
-  }
+.intro .intro-info-container .intro-description-container {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 100%;
 }
-.intro .intro-img {
+.intro .intro-info-container .intro-description-container .intro__main {
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 400px;
+}
+.intro .intro-info-container .intro__post {
+  margin-bottom: 20px;
+}
+.intro .intro-info-container .social a {
+  margin-right: 20px;
+}
+.intro .intro-img-container {
+  width: 40%;
+}
+.intro .intro-img-container .intro-img {
   background-image: url("/img/header-image.jpg");
   background-size: cover;
   background-position: center;
@@ -133,10 +145,19 @@ header {
   margin-bottom: 50px;
 }
 
-.social a {
-  margin-right: 20px;
+@media (max-width: 768px) {
+  .intro .intro-img-container {
+    width: 100%;
+  }
+  .intro .intro-img-container .intro-img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .intro .intro-info-container {
+    width: 100%;
+    text-align: center;
+  }
 }
-
 .footer {
   padding: 40px 20px;
   text-align: center;
@@ -178,7 +199,11 @@ dt, dd {
 .title {
   margin: 0;
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 16px;
+}
+
+.company {
+  font-size: 14px;
 }
 
 a {
@@ -191,14 +216,36 @@ a:hover {
   text-decoration: none;
 }
 
+.period {
+  color: rgb(168, 162, 158);
+  font-size: 12px;
+}
+
+.description {
+  font-size: 14px;
+  line-height: 28px;
+}
+
 .project-description {
   margin-top: 10px;
   margin-bottom: 10px;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+.project-link {
+  font-size: 14px;
 }
 
 .article-description {
   margin-top: 10px;
   margin-bottom: 10px;
+  line-height: 28px;
+  font-size: 14px;
+}
+
+.article-link {
+  font-size: 14px;
 }
 
 .blog-title {
@@ -231,6 +278,37 @@ a:hover {
   margin-bottom: 40px;
 }
 
+.blog-post-blurb-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.blog-post-title {
+  width: 80%;
+  text-align: left;
+}
+
+.blog-post-date {
+  width: 20%;
+  text-align: right;
+  color: rgb(168, 162, 158);
+}
+
+@media (max-width: 500px) {
+  .blog-post-title {
+    width: 60%;
+  }
+  .blog-post-date {
+    width: 40%;
+  }
+}
 .post-back-box {
   margin: 20px;
 }
@@ -243,45 +321,17 @@ a:hover {
   font-size: 24px;
   font-weight: 700;
 }
+.post-title-box .post-date {
+  color: rgb(168, 162, 158);
+}
 
 .post-content {
   margin: 5% auto;
   max-width: 850px;
 }
 .post-content blockquote {
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 300;
-}
-.post-content ol li {
-  counter-increment: matt;
-  font-size: 18px;
-  line-height: 2;
-}
-.post-content ol li:before {
-  content: counter(matt) ".  ";
-}
-.post-content ol li:marker {
-  content: counter(matt) ".  ";
-}
-.post-content ol {
-  list-style: none;
-  counter-reset: matt;
-}
-.post-content ul li {
-  counter-increment: matt2;
-  font-size: 18px;
-  line-height: 2;
-}
-.post-content li {
-  font-size: 18px;
-  line-height: 2;
-}
-.post-content ul li:before {
-  content: counter(matt2) ". ";
-}
-.post-content ul {
-  list-style: none;
-  counter-reset: matt2;
 }
 .post-content code {
   background: rgb(242, 242, 242);
@@ -290,7 +340,7 @@ a:hover {
 }
 .post-content p {
   display: block;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 2;
   margin-block-start: 1em;
   margin-block-end: 1em;
@@ -298,13 +348,34 @@ a:hover {
   margin-inline-end: 0px;
 }
 .post-content h1 {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 700;
   margin-bottom: 10px;
+  margin-top: 40px;
 }
 .post-content h3 {
   font-size: 18px;
   font-weight: 700;
+}
+
+ol {
+  padding-inline-start: 16px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  line-height: 32px;
+}
+ol li {
+  margin-bottom: 20px;
+}
+
+ul {
+  padding-inline-start: 16px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  line-height: 32px;
+}
+ul li {
+  margin-bottom: 20px;
 }
 
 .post-content svg, .post-content select {
@@ -340,7 +411,7 @@ a:hover {
 }
 
 .cal-title-section {
-  font-size: 2rem;
+  font-size: 24px;
   font-weight: bold;
   margin-bottom: 80px;
   margin-top: 40px;
@@ -364,7 +435,7 @@ a:hover {
 
 .cal-chart-text {
   display: block;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 2;
   margin-block-start: 1em;
   margin-block-end: 1em;

@@ -16,6 +16,7 @@ $spacer: 20px;
     margin-bottom: ($spacer * 2);
     text-align: center;
     position: relative;
+    color: rgba(168, 162, 158, 1.0);
     
     &:after {
         content: '';
@@ -25,6 +26,6 @@ $spacer: 20px;
         margin-left: -25px;
         width: 50px;
         height: 1px;
-        background: #222;
+        background: rgba(172, 162, 158, 1.0);;
     }
 }
