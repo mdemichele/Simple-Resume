@@ -96,7 +96,7 @@ header {
 }
 @media (min-width: 640px) {
   header {
-    padding: 200px 0 60px;
+    padding: 100px 0 60px;
     margin-bottom: 60px;
   }
 }

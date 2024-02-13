@@ -16,7 +16,6 @@ As I begin the process of fixing up the site, I wanted to share with you a few o
 
 If you are just as nerdy as I am, I hope you’ll enjoy these three quick tips.
 
-<br>
 # Number 1: Set Up Some Kind of Analytics
 
 By far, the easiest thing you can do to improve your website is to simply integrate some kind of analytics tool. Really, this is more of a prerequisite to even get started.
@@ -45,7 +44,6 @@ You can set up almost any analytics tool in a matter of minutes. Google Analytic
 
 Keep in mind that even if you don’t know how to interpret the analytics data right away, having some data is far better than having no data at all. At the very least, you’ll be able to see relatively how many users are visiting your site. That is a solid starting point.
 
-<br>
 # Number 2: Remove Example Content and “Empty” Pages
 
 This seems really obvious, but I can’t tell you how many times I’ve worked on a site with example content still hanging around somewhere. As simple as it is, I guess it needs to be said: Get rid of the sample content that came with the theme you bought! Or, at the very least, make sure the example content is saved as a draft rather than published somewhere on the site.
@@ -62,7 +60,6 @@ Fortunately, when I looked through the site’s analytics, I saw that no users h
 
 Obviously, the quick fix was simply to set the extra home page as a draft. Removing the page from the Google crawler by putting a “no index” tag in the robot.txt file might also be a great idea, but again, this may be a topic for a different article. If you want to know more about robot.txt files, check out this article by Neil Patel. (As a side note, I don’t typically like digital marketer types, but, I’ll admit, this guy knows his stuff).
 
-<br>
 # For God’s Sake, Make It Mobile-Friendly
 
 Last but not least, I’d like to beat a dead horse. If you’ve read any sort of SEO article before in your life, I apologize, you’ve heard this before. You’ve probably heard it ad nauseam:
@@ -83,7 +80,6 @@ These days, most of the sites I’ve worked on are built using WordPress, which 
 
 If your site wasn’t built using a page builder with mobile styling capabilities, don’t freak out! Instead, you can apply the wonderful magic of media queries and good old fashion CSS to change the mobile view manually. If you love to code as much as I do, this method is actually a lot more fun (not to mention easier to figure out than those stupid page builders). There are endless amounts of quality resources available if you’d like to learn more about media queries. I’d recommend checking out this article by Mozilla. In fact, you can learn just about anything web development-related on the MDN web docs site. It’s maybe my favorite internet resource.
 
-<br>
 # Conclusion
 While this was not the most informative resource on the internet (trust me, there are so many), these are at least three things you should fix right from the start of your work on any website.
 
