@@ -1,9 +1,13 @@
 .blog-title {
-  font-size: 2.0rem;
+  font-size: 88px;
   font-weight: bold;
   margin-bottom: ($spacer * 4);
   margin-top: ($spacer * 2);
   text-align: center;
+  font-family: "Playfair Display", serif;
+  font-weight: 800;
+  font-style: italic;
+  color: rgba(168, 162, 158, 1.0);
 }
 
 .blog-category-title {

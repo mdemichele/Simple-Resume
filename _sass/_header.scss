@@ -19,9 +19,20 @@ header {
     justify-content: space-between;
     flex-wrap: wrap;
 
-    &__pre, &__post {
-        letter-spacing: 4px;
+    &__pre {
         color: rgba(168, 162, 158, 1.0);
+        font-family: "Playfair Display", serif;
+        font-weight: 800;
+        font-size: 88px;
+        font-style: italic;
+    }
+
+    &__post {
+        color: rgba(168, 162, 158, 1.0);
+        font-family: "Playfair Display", serif;
+        font-weight: 600;
+        font-size: 20px;
+        font-style: italic;
     }
 
     .intro-info-container {
@@ -47,6 +58,9 @@ header {
         .social {
             a {
                 margin-right: $spacer;
+                font-family: "Playfair Display", serif;
+                font-weight: 400;
+                font-size: 16px;
             }
         }
     }
