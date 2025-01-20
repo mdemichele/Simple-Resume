@@ -4,7 +4,7 @@ title: "Thinking About Objects in JavaScript"
 category: "Technical Essays"
 ---
 
-This past week, I made a pretty rookie mistake and copied an array of objects the wrong way in JavaScript. I had to do some digging to find out exactly what I did wrong, so I thought it'd be a good opportunity to document my mistake. 
+This past week, I made a pretty rookie mistake and copied an array of objects the wrong way in JavaScript. I spent some time thinking about exactly what I did wrong, so I thought it'd be a good opportunity to document my mistake. 
 
 # Scenario:
 First, the specific scenario.
