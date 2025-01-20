@@ -5,9 +5,13 @@
 .post-title-box {
   margin: 10%;
   text-align: center;
+
   .post-title {
-    font-size: 24px;
-    font-weight: 700;
+    font-size: 48px;
+    font-weight: 800;
+    font-style: italic;
+    color: rgba(168, 162, 158, 1.0);
+    font-family: "Playfair Display", serif;
   }
   
   .post-date {

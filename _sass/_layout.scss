@@ -5,18 +5,20 @@
 $spacer: 20px;
 
 .container {
-    max-width: 860px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 0 $spacer;
 }
 
 .section-title {
-    text-transform: uppercase;
-    letter-spacing: 4px;
     margin-bottom: ($spacer * 2);
     text-align: center;
     position: relative;
     color: rgba(168, 162, 158, 1.0);
+    font-family: "Playfair Display", serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 48px;
     
     &:after {
         content: '';
