@@ -4,7 +4,7 @@ title: Thoughts on Software Design
 category: personal essay
 ---
 
-
+This past Monday, I stumbled upon a really great article by Facundo Olano, called ["Software Design is Knowledge Building"](https://olano.dev/blog/software-design-is-knowledge-building/?curius=2181). In it, he describes the process by which a piece of software falls apart over time within an organization. He highlights some really important things in his discussion.
 
 Reading these articles, it gives me a forest for the trees type of perspective on the industry that I've gotten myself into. It's easy to feel like you're losing ground as a software engineer. When applying for new roles, companies and especially the recruiters who find you are always obsessed with what specific technologies you know. Often, in the technical interview process, you have to demonstrate knowledge of a specific technology. I've had a number of interview questions that go something like, "build a CRUD app to store data into some kind of persistent storage." In these interviews, it doesn't look good if they ask you to build it in React and you have to look up syntax stuff because you've been working with Angular for the past two years instead of React. Sometimes, syntax doesn't stay in my brain.
 
